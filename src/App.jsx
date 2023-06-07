@@ -1,3 +1,5 @@
+//imports
+
 import React from 'react'
 import Input from "./Components/Input"
 import Output from './Components/Output'
@@ -6,8 +8,10 @@ import Output from './Components/Output'
 
 const App = () => {
 
+  //display component on webpage
   return (
-    <div >
+    <div className='result'>
+    <Output/>
     <Output/>
     <Output/>
     <Output/>

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(148, 188, 204, 0.726);
+
+}
+.result{
+    height: 100svh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+#input{
+    width:15rem;
+    height: 3rem;
+    border-radius: 1rem;
+    border: 2px solid black;
+}
+#output{
+    color: rgb(15, 11, 233);
+    font-weight: 800;
+    width: 30rem;
+    text-align: center;
+    background-color: rgb(159, 93, 185);
+}

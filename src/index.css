@@ -14,10 +14,12 @@
     gap: 2rem;
 }
 #input{
-    width:15rem;
+    width:17rem;
     height: 3rem;
     border-radius: 1rem;
+    outline: none;
     border: 2px solid black;
+    background-color: ghostwhite;
 }
 #output{
     color: rgb(15, 11, 233);

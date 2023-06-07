@@ -1,6 +1,4 @@
-//imports
-
-import React from 'react'
+//components import
 import Input from "./Components/Input"
 import Output from './Components/Output'
 
